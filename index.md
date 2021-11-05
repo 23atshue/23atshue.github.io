@@ -11,8 +11,8 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 **Bolded Text**
 *italicize*
 [text of the link](https://example.com)
--bullets
--more bullets
+- bullets
+- more bullets
 
 ## Contact Information
 
