@@ -19,8 +19,11 @@ nav-links:
   ################## SOCIAL MEDIA ##################
   # for social links, go to the profile page and copy the URL
   # Example:
-  - name: Instagram
-    url: https://instagram.com/myinstagramusername
+  #- name: Instagram
+  #  url: https://instagram.com/alexistieshue
+  #  external: true
+  - name: Momo Instagram
+    url: https://instagram.com/momothecoton
     external: true
   ##################################################
 
